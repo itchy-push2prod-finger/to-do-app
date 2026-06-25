@@ -15,30 +15,30 @@ A simple to-do app built with vanilla HTML, CSS, and JavaScript. No frameworks, 
 Each requirement below is its own chunk of work. Commit after each one so we build a clean git history together.
 
 ### Phase 1 — HTML Structure
-- [ ] **1.1** Create the page skeleton: `<!DOCTYPE html>`, `<head>`, `<body>`
-- [ ] **1.2** Add a heading (e.g. "My To-Do List")
-- [ ] **1.3** Add a text input and an "Add" button side by side
-- [ ] **1.4** Add an empty `<ul>` or `<ol>` where tasks will appear
+- AJ [x] **1.1** Create the page skeleton: `<!DOCTYPE html>`, `<head>`, `<body>`
+- Qwen [x] **1.2** Add a heading (e.g. "My To-Do List")
+- AJ [ ] **1.3** Add a text input and an "Add" button side by side
+- AJ [ ] **1.4** Add an empty `<ul>` or `<ol>` where tasks will appear
 
 ### Phase 2 — CSS Styling
-- [ ] **2.1** Center the app on the page and give it a max-width
-- [ ] **2.2** Style the heading, input, and button so they look clean
-- [ ] **2.3** Style each task item (padding, border, readable font size)
-- [ ] **2.4** Add a style for "completed" tasks (e.g. strikethrough + gray text)
+- Qwen [ ] **2.1** Center the app on the page and give it a max-width
+- AJ [ ] **2.2** Style the heading, input, and button so they look clean
+- Qwen [ ] **2.3** Style each task item (padding, border, readable font size)
+- AJ [ ] **2.4** Add a style for "completed" tasks (e.g. strikethrough + gray text)
 
 ### Phase 3 — JavaScript: Add Tasks
-- [ ] **3.1** Select the input, button, and list from the DOM
-- [ ] **3.2** Write a function that reads the input value and creates a new `<li>`
-- [ ] **3.3** Append the new `<li>` to the list when the button is clicked
-- [ ] **3.4** Clear the input field after a task is added
-- [ ] **3.5** Prevent adding an empty task (show an alert or just do nothing)
+- AJ [ ] **3.1** Select the input, button, and list from the DOM
+- Qwen [ ] **3.2** Write a function that reads the input value and creates a new `<li>`
+- AJ [ ] **3.3** Append the new `<li>` to the list when the button is clicked
+- Qwen [ ] **3.4** Clear the input field after a task is added
+- AJ [ ] **3.5** Prevent adding an empty task (show an alert or just do nothing)
 
 ### Phase 4 — JavaScript: Complete Tasks
-- [ ] **4.1** When a task is clicked, toggle it as "completed" (add/remove the CSS class)
+- AJ [ ] **4.1** When a task is clicked, toggle it as "completed" (add/remove the CSS class)
 
 ### Phase 5 — JavaScript: Delete Tasks
-- [ ] **5.1** Add a "Delete" button inside each task `<li>` when it's created
-- [ ] **5.2** When the delete button is clicked, remove that `<li>` from the list
+- AJ [ ] **5.1** Add a "Delete" button inside each task `<li>` when it's created
+- Qwen [ ] **5.2** When the delete button is clicked, remove that `<li>` from the list
 
 ### Phase 6 — Stretch Goals (optional, tackle in any order)
 - [ ] **6.1** Save tasks to `localStorage` so they persist after a page refresh
