@@ -17,8 +17,8 @@ Each requirement below is its own chunk of work. Commit after each one so we bui
 ### Phase 1 — HTML Structure
 - AJ [x] **1.1** Create the page skeleton: `<!DOCTYPE html>`, `<head>`, `<body>`
 - Qwen [x] **1.2** Add a heading (e.g. "My To-Do List")
-- AJ [ ] **1.3** Add a text input and an "Add" button side by side
-- AJ [ ] **1.4** Add an empty `<ul>` or `<ol>` where tasks will appear
+- AJ [x] **1.3** Add a text input and an "Add" button side by side
+- AJ [x] **1.4** Add an empty `<ul>` or `<ol>` where tasks will appear
 
 ### Phase 2 — CSS Styling
 - Qwen [ ] **2.1** Center the app on the page and give it a max-width
